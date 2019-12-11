@@ -1,0 +1,4 @@
+<!ENTITY PRODUCT "Documentation">
+<!ENTITY BOOKID "My_Doc">
+<!ENTITY YEAR "2019">
+<!ENTITY HOLDER "| You need to change the HOLDER entity in the en-GB/My_Doc.ent file |">
